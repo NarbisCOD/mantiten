@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /vistas
+
+Disallow: /ajax
+Disallow: /controladores
+Disallow: /modelos
+
+Sitemap: http://mantiten.com/sitemap.xml
