@@ -1,0 +1,18 @@
+<!--
+    Cada <circle> representa uno de los tres circulos.
+    El primero tiene opacity: 0.1 (10%).
+    El segundo tiene opacity: 0.2 (20%).
+    Al tercero no se le menciona su opacidad porque es del 100%.
+
+    Los tres circulos tienen el atributo fill="color".
+    Podés cambiar los colores de cada uno desde ahí.
+-->
+
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" width="88.26" height="88.26" viewBox="0 0 88.26 88.26">
+  <title>btn_llamada1</title>
+  <circle cx="44.13" cy="44.13" r="44.13" fill="#0080ff" opacity="0.1" style="isolation: isolate"/>
+  <circle cx="44.13" cy="44.13" r="35.74" fill="#0080ff" opacity="0.2" style="isolation: isolate"/>
+  <circle cx="44.13" cy="44.13" r="27.74" fill="#0080ff"/>
+  <path d="M31.77,33.91a1.42,1.42,0,0,0-1.42,1.42h0A24.09,24.09,0,0,0,54.44,59.42,1.42,1.42,0,0,0,55.86,58h0V53a1.42,1.42,0,0,0-1.42-1.42h0a16.1,16.1,0,0,1-5.06-.81,1.45,1.45,0,0,0-1.45.34l-3.12,3.12a21.32,21.32,0,0,1-9.34-9.34l3.12-3.13a1.36,1.36,0,0,0,.35-1.42,16.1,16.1,0,0,1-.81-5.06,1.42,1.42,0,0,0-1.42-1.42h-5m15.59,0V36h5l-7.79,7.79,1.42,1.42,7.79-7.79v5h2.13v-8.5Z" transform="translate(-1.04 -1.32)" fill="#fff"/>
+</svg>
+
